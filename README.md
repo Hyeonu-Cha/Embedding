@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed and configured:
 
 1.  **Clone the repository (or set up your project folder):**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Hyeonu-Cha/Embedding.git
     cd <your-repo-directory>
     ```
 
